@@ -1,8 +1,25 @@
 aid: workplaced-technologies-ltd
+accessModel:
+  pricing: unknown
+  onboarding: approval
+  trial: false
+  try_now: false
+  public: false
+  label: Requires approval
+  confidence: medium
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/workplaced-technologies-ltd.png
 name: Workplaced Technologies Ltd
-description: Workplaced Technologies Ltd is a company surfaced as a portfolio company of 500-global and
-  added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: Workplaced (Workplaced Technologies Ltd) is a workplace-strategy and hybrid-work
+  SaaS platform that helps companies create workplaces that work. Its products cover workplace
+  experience surveys (Dynamics), office occupancy measurement beyond sensor data (Occupancy),
+  space taxonomy and office planning (Taxonomy), desk and meeting-room booking (Booking), and
+  hybrid work policy modelling (Balance), alongside a pricing calculator, free planning tools,
+  research reports, and a partner program. Workplaced is a 500 Global portfolio company. It
+  publishes no public developer program - the api.workplaced.com backend is fully
+  authentication-gated with no public documentation or specification.
 url: https://raw.githubusercontent.com/api-evangelist/workplaced-technologies-ltd/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,9 +29,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Workplace
+- Hybrid Work
+- Occupancy
+- Desk Booking
+- Workplace Analytics
+- Real Estate
+- SaaS
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -22,5 +46,18 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/workplaced-technologies-ltd-domain-security.yml
 - type: Website
   url: https://workplaced.com
+- type: Pricing
+  url: https://www.workplaced.com/pricing
+- type: Blog
+  url: https://www.workplaced.com/insights/blog
+- type: LLMsTxt
+  url: llms/workplaced-technologies-ltd-llms.txt
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 3
+  pass: local-v1

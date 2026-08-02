@@ -1,0 +1,29 @@
+# Workplaced
+
+> Workplaced (Workplaced Technologies Ltd) helps companies create workplaces that work. It is a workplace-strategy and hybrid-work SaaS platform covering workplace experience surveys, office occupancy measurement, space taxonomy and planning, desk and meeting-room booking, and hybrid work policy modelling. Workplaced is a 500 Global portfolio company.
+
+Workplaced publishes no public developer program: there is no developer portal, API documentation, or public API specification. The backend at api.workplaced.com is fully authentication-gated (all /api/* paths return 401) and serves the Workplaced application only.
+
+## Products
+
+- [Dynamics](https://www.workplaced.com/dynamics): Survey workplace experience, work patterns, and office activity preferences to make meaningful management decisions.
+- [Occupancy](https://www.workplaced.com/occupancy): Measure office space utilisation beyond sensor data. Report on activities performed, utilisation vs capacity KPIs and more.
+- [Taxonomy](https://www.workplaced.com/taxonomy): Create office space plans with workspaces that match employees' activities and needs, plus a kit of parts to build them.
+- [Booking](https://www.workplaced.com/booking): Book desks, coordinate office days, reserve meeting rooms and more all from one app with the desk booking solution.
+- [Balance](https://www.workplaced.com/balance): Configure your hybrid work model to evaluate how your policy can benefit employee productivity and retention.
+
+## Resources
+
+- [Pricing](https://www.workplaced.com/pricing): Pricing calculator tailored to your team.
+- [Our Story](https://www.workplaced.com/our-story): Company background, founders, and contact information.
+- [Blog](https://www.workplaced.com/insights/blog): Insights on hybrid work, occupancy measurement, and workplace strategy.
+- [Whitepapers](https://www.workplaced.com/insights/whitepapers): Research on workplace logic, productivity, and value-chain dynamics.
+- [Research Reports](https://www.workplaced.com/insights/research-reports): Including the Workplaced MEA Research 2025 report.
+- [Academy](https://www.workplaced.com/academy): Workplace strategy education.
+- [Partners](https://www.workplaced.com/partners): Partner program with login/sign-up for partners.
+
+## Free Tools
+
+- [Workplace Strategy Quiz](https://www.workplaced.com/free-tools/workplace-strategy-quiz)
+- [Space Planner](https://www.workplaced.com/free-tools/space-planner/inputs)
+- [Hybrid Work Policy Maker](https://www.workplaced.com/free-tools/hybrid-work-policy-maker/inputs)
